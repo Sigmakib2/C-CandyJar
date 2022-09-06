@@ -4,14 +4,6 @@ Print like:
 22
 333
 4444
-
-|--------------------------------|
-|Program Written by Sakib Mahmud |
-|3rd semester                    |
-|Roll: 18064                     |
-|Email:sakib@pathgriho.com       |
-|--------------------------------|
-
 */
 #include <stdio.h>
 void main()

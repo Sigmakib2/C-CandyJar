@@ -2,13 +2,6 @@
 A program to read the age of 100 persons and count the number of persons in the
 age group 50 to 60.
 
-|--------------------------------|
-|Program Written by Sakib Mahmud |
-|3rd semester                    |
-|Roll: 18064                     |
-|Email:sakib@pathgriho.com       |
-|--------------------------------|
-
 */
 //program according to the problem
 /*

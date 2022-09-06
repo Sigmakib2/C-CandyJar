@@ -1,13 +1,6 @@
 /*
 A program using do..while loop to calculate
 and print the first n Fibonacci numbers.
-
-|--------------------------------|
-|Program Written by Sakib Mahmud |
-|3rd semester                    |
-|Roll: 18064                     |
-|Email:sakib@pathgriho.com       |
-|--------------------------------|
 */
 #include<stdio.h>
 int main()

@@ -1,12 +1,5 @@
 /*
 A program using for loop to reverse the digits of a number.
-
-|--------------------------------|
-|Program Written by Sakib Mahmud |
-|3rd semester                    |
-|Roll: 18064                     |
-|Email:sakib@pathgriho.com       |
-|--------------------------------|
 */
 #include<stdio.h>
 #include<conio.h>

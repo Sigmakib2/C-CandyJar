@@ -5,12 +5,6 @@ Print like this:
   ***
    **
     *
-|--------------------------------|
-|Program Written by Sakib Mahmud |
-|3rd semester                    |
-|Roll: 18064                     |
-|Email:sakib@pathgriho.com       |
-|--------------------------------|
 */
 #include <stdio.h>
 

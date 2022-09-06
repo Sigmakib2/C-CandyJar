@@ -1,13 +1,6 @@
 /*
 The factorial of an integer m is the product of consecutive integers from 1 to m. That is,
 Factorial m = m! = m*(m-1)*....*1
-
-|--------------------------------|
-|Program Written by Sakib Mahmud |
-|3rd semester                    |
-|Roll: 18064                     |
-|Email:sakib@pathgriho.com       |
-|--------------------------------|
 */
 #include <stdio.h>
 int main() {
